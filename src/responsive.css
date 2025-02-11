@@ -905,7 +905,7 @@
 
     /* HERO */
     .hero .txt-hero h1 {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 
     section.portfolio {
@@ -1004,10 +1004,6 @@
 
     .hero .txt-hero {
         width: 51%;
-    }
-
-    .hero .txt-hero h1 {
-        font-size: 1rem;
     }
 
     .sobre .container-sobre .img-sobre img {
