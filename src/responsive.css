@@ -750,9 +750,6 @@
 
     .hero .txt-hero {
         padding-left: 20px;
-    }
-
-    .hero .txt-hero {
         width: 53%;
     }
 
@@ -988,24 +985,19 @@
     /* HERO */
     section.hero {
         height: 80vh;
-
     }
 
-    .hero .txt-hero {
-        width: 50%;
+     .hero .txt-hero {
+        width: 52%;
     }
 
+ 
 }
 
 
 @media screen and (max-width: 361px) {
 
-    /* HERO */
-
-    .hero .txt-hero {
-        width: 51%;
-    }
-
+   
     .sobre .container-sobre .img-sobre img {
         max-width: 150px;
     }
