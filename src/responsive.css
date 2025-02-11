@@ -1,0 +1,1095 @@
+@media screen and (max-width: 1360px) {
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 2.6rem;
+    }
+
+}
+
+@media screen and (max-width: 1332px) {
+    /* HERO */
+
+    .hero .btn-hero {
+        max-width: 90%;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 3rem;
+        line-height: 4.1rem;
+    }
+
+    /* SERVICOS */
+    section.servicos {
+        padding: 100px 50px 80px;
+
+    }
+
+    .servicos .servicos-container {
+        gap: 100px;
+
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 550px;
+
+    }
+
+    .servicos .servicos-container .txt-servicos {
+        width: 42%;
+
+    }
+
+    .servicos .servicos-container .txt-servicos h2 {
+        font-size: 1.7rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos p {
+        font-size: 1.1rem;
+        color: #333333;
+
+    }
+
+    /* QUEM SOMOS */
+
+    section.quem_somos {
+        padding: 250px 40px 0px;
+        font-family: "Lato", sans-serif;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 1248px) {
+
+    /* PORTFOLIO */
+    section.portfolio {
+        padding: 30px 130px 70px;
+        font-family: "Lato", sans-serif;
+    }
+
+    .portfolio .txt-portfolio {
+        text-align: center;
+    }
+
+    .container-portfolio {
+        justify-content: space-around;
+        gap: 30px;
+    }
+
+    /* SERVICOS */
+
+    .servicos .servicos-container {
+        gap: 80px;
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 520px;
+    }
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais {
+        width: 55%;
+    }
+
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 2.3rem;
+    }
+
+    .saiba-mais .container-saiba-mais p {
+        font-size: 1rem;
+    }
+
+    /* SERVIÇOS PÁGINA */
+
+    .portfolio .txt-portfolio-servicos h2 {
+        text-align: center;
+
+    }
+
+}
+
+@media screen and (max-width: 1220px) {
+
+    header .menu-desktop nav ul,
+    header .btn-contato {
+        display: none;
+    }
+
+    header .btn-menu-mob {
+        display: inline;
+    }
+
+    /* QUEM SOMOS */
+
+    section.quem_somos {
+        padding: 170px 70px 0px;
+
+    }
+
+    .quem_somos .container_imagens_sobre_nos {
+        order: 1;
+    }
+
+    .quem_somos .container_quem_somos .item-4 {
+        order: 0;
+    }
+
+    .quem_somos .container_quem_somos {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 90px;
+        gap: 70px;
+    }
+
+    .quem_somos .container_quem_somos .txt-sobre {
+        width: 100%;
+    }
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos {
+        justify-content: center;
+        gap: 5rem;
+    }
+
+
+    /* PÁGINA CONTATO */
+
+    .contato .container-contato img {
+        max-width: 400px;
+    }
+
+}
+
+
+@media screen and (max-width: 1175px) {
+
+    /* HERO */
+    .hero .txt-hero {
+        padding-left: 60px;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 2.7rem;
+        line-height: 3.4rem;
+    }
+
+    /* SERVICOS */
+
+    .servicos .servicos-container .txt-servicos h2 {
+        font-size: 1.5rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos p {
+        font-size: 1rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos .txt-servicos-box h3 {
+        font-size: 1rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos .txt-servicos-box p {
+        font-size: 0.9rem;
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 500px;
+    }
+
+    /* FOOTER */
+    footer .right-footer .txt-footer {
+        display: flex;
+        align-items: start;
+        width: 80%;
+        gap: 70px;
+    }
+
+}
+
+
+@media screen and (max-width: 1080px) {
+
+    /* SERVICOS */
+    section.servicos {
+        padding: 100px 30px 80px;
+    }
+
+    .servicos .servicos-container {
+        gap: 60px;
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 490px;
+    }
+
+    /* FOOTER */
+
+    footer {
+        height: 80%;
+    }
+
+    footer .right-footer .left-footer {
+        transform: translateX(78%);
+        gap: 5px;
+    }
+
+    /* PÁGINA SERVIÇOS */
+
+    section.servicos-pagina {
+        padding: 200px 40px 60px;
+    }
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos p {
+        text-align: left;
+    }
+
+    .servicos-container-pagina img {
+        max-width: 450px;
+        max-height: 300px;
+
+    }
+
+    /* CONTATO */
+
+    section.contato {
+        padding: 180px 40px 80px;
+    }
+
+    .contato .container-contato .txt-contato .informacoes-contatos a,
+    .contato .container-contato .txt-contato .informacoes-contatos p {
+        font-size: 1.1rem;
+    }
+
+}
+
+
+
+@media screen and (max-width: 1000px) {
+
+    /* HERO */
+    section.hero {
+        height: 82vh;
+        background-image: url(../hero/teste.png);
+        background-position: 63%;
+    }
+
+    .hero .txt-hero {
+        padding-left: 50px;
+        width: 45%;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 2.2rem;
+        line-height: 2.7rem;
+    }
+
+    .hero .txt-hero p {
+        font-size: 0.9rem;
+        width: 85%;
+    }
+
+
+    /* SERVICOS */
+
+    .servicos .servicos-container {
+        gap: 40px;
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 450px;
+    }
+
+    .servicos .servicos-container .txt-servicos h2 {
+        font-size: 1.3rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos p {
+        font-size: 0.95rem;
+
+    }
+
+    .servicos .servicos-container .txt-servicos .txt-servicos-box p {
+        font-size: 0.85rem;
+    }
+
+    /* SOBRE NÓS */
+
+    section.sobre {
+        padding: 50px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 961px) {
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais {
+        width: 63%;
+
+    }
+
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 2rem;
+    }
+
+    .saiba-mais .container-saiba-mais p {
+        font-size: 0.9rem;
+
+    }
+
+    /* SAIBA MAIS */
+
+    section.saiba-mais {
+        background-position: center right;
+        height: 45vh;
+    }
+
+
+    /* PÁGINA SERVIÇOS */
+    .servicos-pagina .servicos-container-pagina .txt-servicos {
+        padding-right: 60px;
+        width: 70%;
+    }
+
+    /* CONTATO */
+    section.contato {
+        padding: 180px 30px 80px;
+    }
+
+    .contato .container-contato img {
+        max-width: 300px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 910px) {
+
+    .hero .txt-hero h1 {
+        font-size: 2rem;
+    }
+
+    /* SOBRE NÓS */
+
+    .sobre .container-sobre {
+        flex-direction: column;
+    }
+
+    .sobre .container-sobre .img-sobre {
+        gap: 5px;
+    }
+
+    .sobre .box-imagem-sobre {
+        order: 1;
+    }
+
+    .sobre .container-sobre .item-3 {
+        order: 0;
+    }
+
+    .sobre .container-sobre .txt-sobre {
+        width: 80%;
+        text-align: justify;
+    }
+
+    .sobre .container-sobre .txt-sobre h2 {
+        text-align: center;
+    }
+
+    .sobre .container-sobre .txt-sobre p {
+        padding-bottom: 10px;
+    }
+
+    /* FOOTER */
+
+
+    footer .right-footer {
+        padding: 60px 40px 40px;
+    }
+
+    footer .right-footer .left-footer {
+        transform: translateX(70%);
+        gap: 5px;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 885px) {
+    section.contato {
+        min-height: 70vh;
+        display: flex;
+        align-items: center;
+
+    }
+
+    /* SERVICOS */
+
+    section.servicos {
+        padding: 100px 20px 80px;
+    }
+
+
+    .servicos .servicos-container {
+        gap: 40px;
+
+    }
+
+    .servicos .servicos-container .img-principal {
+        max-width: 380px;
+    }
+
+    /* FOOTER */
+
+    footer {
+        margin-top: auto;
+    }
+
+
+    footer .right-footer .txt-footer {
+        gap: 40px;
+    }
+
+    footer .right-footer .txt-footer .icones-txt-footer {
+        gap: 10px;
+    }
+
+    /* SERVIÇOS PÁGINA */
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos {
+        padding-right: 60px;
+        width: 80%;
+    }
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos h3 {
+        font-size: 2.4rem;
+    }
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos p {
+        font-size: 1rem;
+    }
+
+
+    .servicos-container-pagina img {
+        max-width: 400px;
+        max-height: 300px;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 837px) {
+
+    /* HERO */
+    .hero .txt-hero {
+        padding-left: 40px;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 1.8rem;
+        line-height: 2.3rem;
+    }
+
+    /* CONTATO */
+
+
+    .contato .container-contato img {
+        display: none;
+    }
+
+    .contato .container-contato .txt-contato {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 820px) {
+
+    /* HERO */
+    .hero .btn-hero {
+        max-width: 80%;
+    }
+
+
+    /* SERVICOS */
+
+    section.servicos {
+        padding: 40px 100px 80px;
+    }
+
+    .servicos .servicos-container .txt-servicos {
+        width: 100%;
+
+    }
+
+    .servicos .txt-servicos h2 {
+        font-size: 1.7rem;
+        text-align: center;
+
+    }
+
+    .servicos .servicos-container .img-principal {
+        display: none;
+    }
+
+
+    .servicos .txt-servicos .informacoes-servicos {
+        font-size: 1.2rem;
+        text-align: center;
+
+    }
+
+}
+
+@media screen and (max-width: 774px) {
+    /* SERVIÇOS PÁGINA */
+
+
+    .servicos-container-pagina img {
+        max-width: 320px;
+        max-height: 300px;
+    }
+}
+
+
+
+@media screen and (max-width: 740px) {
+
+    /* HERO */
+
+    .hero .txt-hero {
+        padding: 90px 0 0 30px;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 1.6rem;
+        line-height: 2rem;
+    }
+
+    .hero .txt-hero p {
+        font-size: 0.8rem;
+    }
+
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais {
+        width: 67%;
+    }
+
+    .saiba-mais .container-saiba-mais h3 {
+        font-size: 1.1rem;
+    }
+
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 1.7rem;
+    }
+
+    .saiba-mais .container-saiba-mais p {
+        font-size: 0.8rem;
+
+    }
+
+    /* FOOTER */
+
+    footer .right-footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer .right-footer h2 {
+        font-size: 2.3rem;
+    }
+
+
+    footer .right-footer .txt-footer {
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    footer .right-footer .txt-footer .icones-txt-footer a {
+        font-size: 0.9rem;
+    }
+
+    footer .right-footer .txt-footer .lista-txt-footer h3 {
+        font-size: 1rem;
+        margin: 0 0 5px;
+        text-align: center;
+        font-weight: 400;
+
+    }
+
+    footer .right-footer .txt-footer .lista-txt-footer nav ul li a {
+        font-size: 0.9rem;
+
+    }
+
+    footer .right-footer .txt-footer .lista-txt-footer nav ul {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    footer .right-footer .left-footer {
+        transform: translateX(1%);
+        align-items: center;
+    }
+
+
+    footer .right-footer .left-footer a,
+    footer .right-footer .left-footer p {
+        font-size: 0.8rem;
+    }
+
+    /* SERVIÇOS PAGINA */
+
+    section.servicos-pagina {
+        padding: 150px 40px 60px;
+    }
+
+
+    .servicos-pagina .servicos-container-pagina {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos {
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos h3 {
+        text-align: center;
+    }
+
+    .servicos-pagina .servicos-container-pagina .txt-servicos p {
+        text-align: justify;
+        margin-bottom: 20px;
+
+    }
+
+    .servicos-container-pagina img {
+        max-width: 400px;
+        max-height: 300px;
+    }
+
+    .servicos-pagina .servicos-container-pagina .btn-servicos {
+        display: flex;
+        justify-content: center;
+
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 681px) {
+
+    /* QUEM SOMOS */
+
+    section.quem_somos {
+        padding: 170px 30px 0px;
+
+    }
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos .img-sobre img {
+        max-width: 200px;
+    }
+
+    .quem_somos .container_quem_somos .txt-sobre h2 {
+        font-size: 3rem;
+    }
+
+
+    .quem_somos .container_quem_somos .txt-sobre p {
+        font-size: 1rem;
+        margin-bottom: 40px;
+
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 650px) {
+
+    /* HERO */
+    section.hero {
+        background-image: url(../hero/teste3.png);
+    }
+
+    .hero .txt-hero {
+        padding-left: 20px;
+    }
+
+    .hero .txt-hero {
+        width: 53%;
+    }
+
+    /* PORTFOLIO */
+
+    section.portfolio {
+        padding: 30px 50px 100px;
+    }
+
+    /* SERVICOS */
+
+    section.servicos {
+        padding: 40px 60px 80px;
+    }
+
+    /* SOBRE NÓS */
+
+    .sobre .container-sobre .txt-sobre {
+        width: 90%;
+    }
+
+    .sobre .container-sobre .txt-sobre p {
+        font-size: 1rem;
+    }
+
+    .sobre .container-sobre .img-sobre img {
+        max-width: 190px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+
+    /* HERO */
+    .hero .txt-hero h1 {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais {
+        width: 75%;
+    }
+
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+    /* HEADER */
+    header {
+        padding: 40px 30px 20px;
+    }
+
+    header .logo img {
+        max-width: 9rem;
+    }
+
+    /* HERO */
+
+    .hero .txt-hero {
+        width: 50%;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 1.3rem;
+        line-height: 1.4rem;
+    }
+
+    .hero .txt-hero p {
+        font-size: 0.8rem;
+        width: 85%;
+    }
+
+
+    /* SERVICOS */
+
+    section.servicos {
+        padding: 10px 30px 80px;
+    }
+
+    /* SOBRE NÓS */
+    section.sobre {
+        padding: 30px;
+    }
+
+    .sobre .box-imagem-sobre {
+        display: flex;
+        gap: 20px;
+    }
+
+    .sobre .container-sobre .txt-sobre {
+        width: 100%;
+    }
+
+
+    .sobre .container-sobre .img-sobre img {
+        max-width: 170px;
+    }
+
+
+    /* FOOTER */
+
+    footer .right-footer h2 {
+        font-size: 1.8rem;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos {
+        gap: 3rem;
+    }
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos .img-sobre img {
+        max-width: 180px;
+    }
+
+    .quem_somos .container_quem_somos .txt-sobre h2 {
+        font-size: 2.5rem;
+    }
+
+
+    .quem_somos .container_quem_somos .txt-sobre p {
+        font-size: 0.9rem;
+
+    }
+
+}
+
+
+@media screen and (max-width: 481px) {
+
+    /* HERO */
+    section.hero {
+        height: 70vh;
+
+    }
+
+}
+
+
+@media screen and (max-width: 435px) {
+
+    /* HERO */
+    .hero .txt-hero h1 {
+        font-size: 1.1rem;
+    }
+
+    section.portfolio {
+        padding: 30px 20px 100px;
+
+    }
+
+
+    /* SAIBA MAIS */
+    .saiba-mais .container-saiba-mais {
+        width: 85%;
+    }
+
+    .saiba-mais .container-saiba-mais h3 {
+        font-size: 0.9rem;
+        margin-bottom: 10px;
+    }
+
+    .saiba-mais .container-saiba-mais h2 {
+        font-size: 1.4rem;
+    }
+
+    .saiba-mais .container-saiba-mais p {
+        font-size: 0.8rem;
+    }
+
+    /* FOOTER */
+
+    footer .right-footer {
+        padding: 60px 30px 40px;
+    }
+
+    footer .right-footer h2 {
+        font-size: 1.5rem;
+    }
+
+    /* SERVIÇOS PÁGINA */
+
+    .servicos-container-pagina img {
+        max-width: 350px;
+        max-height: 300px;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos {
+        gap: 2rem;
+    }
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos .img-sobre img {
+        max-width: 150px;
+    }
+
+    /* CONTATO */
+
+
+    .contato .container-contato .txt-contato .informacoes-contatos {
+        margin-bottom: 40px;
+
+    }
+
+    .contato .container-contato .txt-contato .informacoes-contatos {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+
+    }
+
+    .contato .container-contato .txt-contato .informacoes-contatos i {
+        margin-bottom: 0px;
+
+    }
+
+
+}
+
+
+@media screen and (max-width: 391px) {
+
+    /* HERO */
+    section.hero {
+        height: 80vh;
+
+    }
+
+    .hero .txt-hero {
+        width: 50%;
+    }
+
+}
+
+
+@media screen and (max-width: 361px) {
+
+    /* HERO */
+
+    .hero .txt-hero {
+        width: 51%;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 1rem;
+    }
+
+    .sobre .container-sobre .img-sobre img {
+        max-width: 150px;
+    }
+
+    /* SERVIÇOS PÁGINA */
+    .servicos-container-pagina img {
+        max-width: 300px;
+        max-height: 300px;
+    }
+
+    /* CONTATO */
+
+    .contato .container-contato .txt-contato h2 {
+        font-size: 3rem;
+
+    }
+
+    .contato .container-contato .txt-contato p {
+        font-size: 1rem;
+
+    }
+
+    /* FOOTER */
+
+    footer .right-footer h2 {
+        font-size: 1.3rem;
+    }
+
+}
+
+
+@media screen and (max-width: 321px) {
+    /* HERO */
+
+    .hero .txt-hero {
+        width: 54%;
+        padding: 60px 0 0 10px;
+    }
+
+    .hero .txt-hero h1 {
+        font-size: 0.9rem;
+    }
+
+
+    .hero .txt-hero p {
+        font-size: 0.7rem;
+        width: 90%;
+
+    }
+
+    /* SAIBA MAIS */
+    section.saiba-mais {
+        height: 75vh;
+    }
+
+    /*SOBRE NOS  */
+    .sobre .container-sobre .img-sobre img {
+        max-width: 120px;
+    }
+
+    /* QUEM SOMOS */
+
+    .quem_somos .container_quem_somos .container_imagens_sobre_nos .img-sobre img {
+        max-width: 130px;
+    }
+
+    /* CONTATO */
+
+    section.contato {
+        padding: 140px 20px 80px;
+    }
+
+    .contato .container-contato .txt-contato p {
+        font-size: 1rem;
+    }
+
+    /* FOOTER */
+
+    footer .right-footer h2 {
+        font-size: 1.2rem;
+    }
+
+}
