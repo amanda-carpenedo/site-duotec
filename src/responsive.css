@@ -818,7 +818,7 @@
     /* HERO */
 
     .hero .txt-hero {
-        width: 50%;
+        width: 52%;
     }
 
     .hero .txt-hero h1 {
@@ -987,17 +987,24 @@
         height: 80vh;
     }
 
-     .hero .txt-hero {
-        width: 52%;
+    .hero .txt-hero {
+        width: 53%;
+        padding: 70px 0 0 13px;
+        
     }
 
- 
+
 }
 
 
 @media screen and (max-width: 361px) {
+    /* HERO */
+    .hero .txt-hero {
+        width: 52%;
+        
+    }
 
-   
+    /* SOBRE */
     .sobre .container-sobre .img-sobre img {
         max-width: 150px;
     }
@@ -1030,12 +1037,7 @@
 
 
 @media screen and (max-width: 321px) {
-    /* HERO */
 
-    .hero .txt-hero {
-        width: 54%;
-        padding: 60px 0 0 10px;
-    }
 
     .hero .txt-hero h1 {
         font-size: 0.9rem;
